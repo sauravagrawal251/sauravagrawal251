@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Saurav Agrawal</h1>
 <h3 align="center">Saurav Agrawal is a man of many sides. He's a great mix of support, technical, analytical, and banter.
-                   He has skills on Java, HTML , CSS, C , C++ and. 
+                   He has skills on Java, HTML , CSS, C , C++ and Auto Cad. 
                    He loves to contribute in Open-source projects. 
                    Training in WEB DEVLOPEMENT from "GALAXY TECHNICAL HUB"</h3>
 <img align="right" alt="coding" width="400" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif"
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Coding , Programming**
 
-- 📫 How to reach me **SAURAVAGRAWAL251@GMAIL.COM**
+- 📫 How to reach me **sauravagrawal251@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
