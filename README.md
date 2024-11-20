@@ -1,4 +1,4 @@
-![logo]<img href="https://th.bing.com/th/id/OIP.3Wtq7FNKbvtywkVyKiL3XwHaC-?rs=1&pid=ImgDetMain">
+![logo]<img src="(https://th.bing.com/th/id/OIP.3Wtq7FNKbvtywkVyKiL3XwHaC-?rs=1&pid=ImgDetMain)">
 <h1 align="center">Hi 👋, I'm Saurav Agrawal</h1>
 <h3 align="center">Saurav Agrawal is a man of many sides. He's a great mix of support, technical, analytical, and banter.
                    He has skills on Java, HTML , CSS, C , C++ and. 
