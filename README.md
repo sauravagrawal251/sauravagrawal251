@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Saurav Agrawal</h1>
-<h3 align="center">Saurav Agrawal is a man of many sides. He's a great mix of support, technical, analytical, and banter.
+<h1 align="center">Hi 👋, I'm Saurav Kumar Agrawal</h1>
+<h3 align="center">Saurav Kumar Agrawal is a man of many sides. He's a great mix of support, technical, analytical, and banter.
                    He has skills on Java, HTML , CSS, C , C++ and Auto Cad. 
                    He loves to contribute in Open-source projects. 
                    Training in WEB DEVLOPEMENT from "GALAXY TECHNICAL HUB"</h3>
